@@ -1,0 +1,5 @@
+{
+  "name": "DevProd AI Tracker",
+  "description": "An advanced developer productivity platform that tracks baseline metrics across the SDLC using AI-powered agents for Jira, GitHub, and Monday.com.",
+  "requestFramePermissions": []
+}
